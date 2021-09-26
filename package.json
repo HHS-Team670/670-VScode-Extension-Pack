@@ -3,7 +3,8 @@
     "publisher": "team670",
     "displayName": "Team 670 Extension Pack",
     "description": "Useful extensions for FIRST Robotics development",
-    "version": "0.0.1",
+    "repository": "https://github.com/hhs-team670/670-VScode-Extension-Pack.git",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.60.0"
     },
